@@ -1,9 +1,8 @@
-# ecommerce-pipeline
-End-to-end data pipeline: MongoDB → DuckDB → dbt → Airflow
-
 # E-Commerce Analytics Pipeline
 
 An end-to-end data engineering pipeline built with modern open-source tools, demonstrating a production-grade architecture from raw data ingestion to analytical reporting.
+
+End-to-end data pipeline: MongoDB → DuckDB → dbt → Airflow
 
 ## Architecture
 
