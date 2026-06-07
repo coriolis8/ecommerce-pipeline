@@ -1,4 +1,6 @@
-
+# DuckDB database file
+dev.duckdb
 target/
-dbt_packages/
-logs/
+
+# Large seed files
+seeds/olist_geolocation_dataset.csv
